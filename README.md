@@ -1,4 +1,4 @@
-# weldapp-api
+# Laravel & Vue, Docker boilerplate
 
 ## Use
 
